@@ -1,0 +1,7 @@
+user:
+  service:
+    url: http://localhost:8082
+
+transaction:
+  service:
+    url: http://localhost:8822
